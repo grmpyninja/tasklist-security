@@ -8,6 +8,7 @@ Lists for:
 - Linux host review      (IN PROGRESS)
 - Windows host review    (IN PROGRESS)
 - Web application review (IN PROGRESS)
+- SSO			 (IN PROGRESS)
 
 
 # Installation
@@ -17,6 +18,7 @@ Lists for:
 - `hrv.*` => AIX, Linux, Windows host review
 - `cloud.*` => AWS, GCloud, Azure(TODO)
 - `web` => web application tasks
+- `sso` => single sign on oAUTH, SAML TODO
 
 
 # Useful commands
